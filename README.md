@@ -5,4 +5,5 @@ I chose to use Anaconda python distribution 2.2.0 and Spark 1.4.0. This [blog po
 
 Once everything is setup, just type
 >IPYTHON_OPTS="notebook" pyspark
+
 and select the notebook you want to run.
