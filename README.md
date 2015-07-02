@@ -8,4 +8,4 @@ Once everything is setup, just type
 
 from the root directory of the USB file content and select the notebook you want to run.
 
-For the second lab, I used tachyon 0.6.4 prebuilt bindary from [here](https://github.com/amplab/tachyon/releases/download/v0.6.4/tachyon-0.6.4-bin.tar.gz). However, I have not been able to get the second part of the example working yet since the code was given in scala only.
+For the second lab, I used tachyon 0.6.4 prebuilt bindary from [here](https://github.com/amplab/tachyon/releases/download/v0.6.4/tachyon-0.6.4-bin.tar.gz).
