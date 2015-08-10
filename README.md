@@ -9,3 +9,5 @@ Once everything is setup, just type
 from the root directory of the USB file content and select the notebook you want to run.
 
 For the second lab, I used tachyon 0.6.4 prebuilt bindary from [here](https://github.com/amplab/tachyon/releases/download/v0.6.4/tachyon-0.6.4-bin.tar.gz).
+
+For the third lab, I used spark 1.4.1. I ran into problems when building and had to modify sbt-launch-lib.bash as instructed [here, last comment](http://stackoverflow.com/questions/31594937/error-invalid-or-corrupt-jarfile-sbt-sbt-launch-0-13-5-jar/31597283#31597283).
